@@ -5,4 +5,7 @@ $('.gallery__slider').slick({
   slidesToShow: 1,
   adaptiveHeight: true,
   autoplay: true,
+  centermoder: true,
+  dots: false,
+  centerMode: true,
 });
