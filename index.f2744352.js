@@ -1,2 +1,0 @@
-!function(){function e(e){return e&&e.__esModule?e.default:e}var t,n={};Object.defineProperty(n,"__esModule",{value:!0}),n.default=function(e,t,n){t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n;return e},$(".gallery__slider").slick((t={dots:!0,infinite:!0,speed:300,slidesToShow:1,adaptiveHeight:!0,autoplay:!0,centermoder:!0},e(n)(t,"dots",!1),e(n)(t,"centerMode",!0),t))}();
-//# sourceMappingURL=index.f2744352.js.map
