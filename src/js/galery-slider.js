@@ -1,11 +1,8 @@
 $('.gallery__slider').slick({
-  dots: true,
-  infinite: true,
+  dots: false,
+  arrows: false,
   speed: 300,
   slidesToShow: 1,
   adaptiveHeight: true,
-  autoplay: true,
-  centermoder: true,
-  dots: false,
-  centerMode: true,
+  autoplay: false,
 });
